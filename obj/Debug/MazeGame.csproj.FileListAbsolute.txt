@@ -1,0 +1,9 @@
+C:\Users\gizem\source\repos\MazeGame\bin\Debug\MazeGame.exe.config
+C:\Users\gizem\source\repos\MazeGame\bin\Debug\MazeGame.exe
+C:\Users\gizem\source\repos\MazeGame\bin\Debug\MazeGame.pdb
+C:\Users\gizem\source\repos\MazeGame\obj\Debug\MazeGame.csprojAssemblyReference.cache
+C:\Users\gizem\source\repos\MazeGame\obj\Debug\MazeGame.Form1.resources
+C:\Users\gizem\source\repos\MazeGame\obj\Debug\MazeGame.Properties.Resources.resources
+C:\Users\gizem\source\repos\MazeGame\obj\Debug\MazeGame.csproj.GenerateResource.cache
+C:\Users\gizem\source\repos\MazeGame\obj\Debug\MazeGame.exe
+C:\Users\gizem\source\repos\MazeGame\obj\Debug\MazeGame.pdb
